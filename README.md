@@ -20,5 +20,9 @@
 *Baixa os Arquivos Necessários.
 >  yarn
 
+* Inicie a API Fake
+> yarn json-server server.json -p 3333
+
+Em outro terminal!
 *Executa o Projeto.
 >  yarn start
